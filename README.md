@@ -1,7 +1,5 @@
 # Fair Hearing
 
-![Fair Hearing icon: two equal speech bubbles above a level line](assets/icon.png)
-
 **For owners and managers without an HR department** who need to deal with an employee's conduct fairly and by the book. Fair Hearing guides the person making the decision through a conduct disciplinary (misconduct or gross misconduct) in England, Scotland or Wales, following the Acas Code of Practice on disciplinary and grievance procedures, and drafts the letters for them to check and sign.
 
 **This is process guidance, not legal advice. You make every decision.**
