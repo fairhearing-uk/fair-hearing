@@ -1,7 +1,7 @@
 {
   "name": "fair-hearing",
   "displayName": "Fair Hearing",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Guides employers without an HR department through a conduct disciplinary under the Acas Code, with red-flag stops and six draft letters for the decision-maker to check. Not legal advice.",
   "author": {
     "name": "Fair Hearing",
@@ -10,6 +10,12 @@
   },
   "license": "CC-BY-4.0",
   "icon": "./assets/icon.png",
+  "homepage": "https://github.com/fairhearing-uk/fair-hearing",
+  "repository": "https://github.com/fairhearing-uk/fair-hearing",
+  "documentationUrl": "https://github.com/fairhearing-uk/fair-hearing/blob/main/README.md",
+  "supportUrl": "https://github.com/fairhearing-uk/fair-hearing/blob/main/SUPPORT.md",
+  "privacyPolicyUrl": "https://github.com/fairhearing-uk/fair-hearing/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/fairhearing-uk/fair-hearing/blob/main/TERMS.md",
   "keywords": [
     "disciplinary",
     "employment",

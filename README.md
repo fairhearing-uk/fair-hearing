@@ -44,6 +44,8 @@ Nothing. Fair Hearing is instructions and reference text only. It runs no script
 
 fairhearinguk@proton.me
 
+See [SUPPORT.md](SUPPORT.md), [PRIVACY.md](PRIVACY.md) and [TERMS.md](TERMS.md).
+
 ## Licence and attribution
 
 Fair Hearing's original content is licensed under [CC BY 4.0](LICENSE). Content from Acas and from legislation is used under the Open Government Licence v3.0 and credited in [ATTRIBUTION.md](ATTRIBUTION.md). Fair Hearing is not produced, reviewed or endorsed by Acas.
