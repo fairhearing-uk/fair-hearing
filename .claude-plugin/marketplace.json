@@ -1,0 +1,8 @@
+{
+  "name": "fairhearing-uk",
+  "description": "Guides employers without an HR department through a conduct disciplinary under the Acas Code. Not legal advice.",
+  "owner": { "name": "Fair Hearing" },
+  "plugins": [
+    { "name": "fair-hearing", "source": "./" }
+  ]
+}
