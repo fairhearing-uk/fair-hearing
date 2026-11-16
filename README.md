@@ -8,10 +8,11 @@
 
 ## Install
 
-In Claude Code, run:
+To install in Claude Code, run these two commands in your terminal:
 
 ```
-/plugin install fair-hearing --marketplace fairhearing-uk/fair-hearing
+claude plugin marketplace add fairhearing-uk/fair-hearing
+claude plugin install fair-hearing@fairhearing-uk
 ```
 
 ## What it does
