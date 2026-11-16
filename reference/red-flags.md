@@ -76,7 +76,7 @@ Fair Hearing is not connected with, reviewed or endorsed by Acas. Never say or i
   - **(a)** service is within one month either side of the qualifying threshold;
   - **(b)** a case where the employment could end on or after 1 January 2027 when the decision is made before it;
   - **(c)** service is between 6 months and 2 years, and the possible end date (including notice) is in December 2026 or later. This fires **every time**, however the end date is phrased (for example "by mid-December", "before Christmas", "end of the year"). Never treat a December 2026 end date as safely before 1 January 2027.
-  - **Transitional:** clauses (b) and (c) are both transitional. Review them for removal once notice periods running across 1 January 2027 have expired (open item O1 in the project's source log).
+  - **Transitional:** clauses (b) and (c) are both transitional. Review them for removal once notice periods running across 1 January 2027 have expired.
 - **Also fires** if the user is unsure of the start date or the likely end date.
 - **Say:** state the rule from `law-dates.md` (2 years if the effective date of termination is before 1 January 2027; 6 months if it is on or after), then: "Whether this employee is above or below the threshold needs checking by a legal adviser."
 - **Never:** calculate service or the effective date of termination, say which rule applies, or say a dismissal is "safe" because of short service.

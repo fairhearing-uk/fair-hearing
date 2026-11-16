@@ -22,9 +22,9 @@ Code wording in this file is quoted exactly from the Acas Code page, read direct
 - **Status:** consulted on from 30 July to 23 September 2026. Acas expects it to take effect in 2027; no date has been set.
 - **Status checked directly on 15 November 2026:** the draft page says "The consultation closed on 23 September 2026. We're in the process of reviewing responses." Its laying and commencement dates are still "[insert date]".
 - **Good-practice addition used by Fair Hearing:** the invitation letters record what informal steps were taken, or why none were. The draft Code (paragraph 32) says the written notification of a formal disciplinary meeting should, word for word: "state what steps have already been taken to attempt to resolve the concern informally or the reason why none have been taken". Confirmed directly from the draft Code page on 15 November 2026.
-- **Label:** "good practice from Acas's draft revised Code (2026 consultation)". The label goes in the sign-off checklist beside the line, **never inside the letter** (step 5, decision 5).
+- **Label:** "good practice from Acas's draft revised Code (2026 consultation)". The label goes in the sign-off checklist beside the line, **never inside the letter**.
 - **Only the letters skill uses this section.** Triage and the process guide never quote it.
-- **Open item O9:** when the final Code is published, re-check this line (see "How to swap versions").
+- **When the final Code is published,** re-check this line (see "How to swap versions").
 
 ## Paragraph map (2015 Code)
 
@@ -72,7 +72,7 @@ Code wording in this file is quoted exactly from the Acas Code page, read direct
 **Misconduct: the usual outcome (para 19):**
 > "Where misconduct is confirmed or the employee is found to be performing unsatisfactorily it is usual to give the employee a written warning."
 
-The Code gives no list of examples of ordinary misconduct. The examples in `plain-english.md` (entry TM) are Fair Hearing's own wording, approved by Dan on 16 November 2026. Never present them as the Code's, and never add others.
+The Code gives no list of examples of ordinary misconduct. The examples in `plain-english.md` (entry TM) are Fair Hearing's own wording. Never present them as the Code's, and never add others.
 
 **Gross misconduct (paras 23 and 24):**
 > "Some acts, termed gross misconduct, are so serious in themselves or have such serious consequences that they may call for dismissal without notice for a first offence. But a fair disciplinary process should always be followed, before dismissing for gross misconduct."
@@ -194,7 +194,7 @@ These parts of the Code page are left out on purpose:
 
 Used only by the `draft-letters` skill. Each template in `skills/draft-letters/templates/` marks where a clause goes with its name in double braces, for example `{{EVIDENCE}}`. The skill copies the clause text below exactly, then fills its [placeholders] only with what the user has said. Anything the user hasn't said stays as a [placeholder]. Never add paragraph numbers, or the word "Acas", to a letter.
 
-The wording is adapted from Acas's letter templates (listed in `ATTRIBUTION.md`), with the changes recorded in `docs/sources.md`. The right to be accompanied is statute, not Code, so the companion sentence is in `right-to-be-accompanied.md` ("Letter clause"), not here.
+The wording is adapted by Fair Hearing from Acas's letter templates (listed in `ATTRIBUTION.md`). The right to be accompanied is statute, not Code, so the companion sentence is in `right-to-be-accompanied.md` ("Letter clause"), not here.
 
 | Clause | Used in letters | What it meets (2015 Code) |
 |---|---|---|
@@ -285,12 +285,12 @@ You have the right of appeal against this decision. If you would like to appeal,
 
 When Acas's revised Code takes effect:
 
-1. **Confirm the date.** Read the commencement order and Acas's announcement directly, and record both in `docs/sources.md` with their URLs and fetch dates.
-2. **Check the licence.** Check the new Code page for an "except where otherwise stated" exclusion and record the result. If it is excluded, stop and tell Dan.
+1. **Confirm the date.** Read the commencement order and Acas's announcement directly, and record both with their URLs and fetch dates.
+2. **Check the licence.** Check the new Code page for an "except where otherwise stated" exclusion and record the result. If it is excluded, stop: don't reuse it.
 3. **Replace this file's Code content.** Update "Version in use", the paragraph map, and every quoted passage, copied word for word from a direct download of the new Code. Keep the section headings ("Wording used by triage", "Wording used by the process guide" and its stage headings), so the skills still find what they need.
 4. **Remove the draft revised Code section**, or replace it with what the final Code says. Re-check the invitation letter's informal-steps line against the final wording and drop the "draft" label.
 5. **Script-check** every quoted passage against the download, as was done for the 2015 Code, and record the result.
 6. **Leave `right-to-be-accompanied.md` alone** unless the legislation itself has changed. It is statute, not the Code.
 7. **Re-check** the letter templates against Acas's updated letters, and the "Code-dependent letter clauses" above against the new Code (for example what a warning or a dismissal letter must contain). Keep the clause names, so the templates still find them. Update `ATTRIBUTION.md`.
 8. **Run the full test regression** (triage, red-flags, process guide, letters) before committing.
-9. **Transition:** decide with Dan how to treat cases that started under the 2015 Code and are still running on the change date. Log it as an open item until decided.
+9. **Transition:** decide how to treat cases that started under the 2015 Code and are still running on the change date. Log it as an open item until decided.

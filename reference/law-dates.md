@@ -1,6 +1,6 @@
 # Law dates: qualifying service for unfair dismissal
 
-Shared reference for every Fair Hearing skill. Great Britain only (England, Wales and Scotland). Sources are listed in the project's source log with URLs and fetch dates. All legal text below was checked on legislation.gov.uk on 15 November 2026.
+Shared reference for every Fair Hearing skill. Great Britain only (England, Wales and Scotland). All legal text below was checked on legislation.gov.uk on 15 November 2026.
 
 ## What Fair Hearing may say, and what it may not
 

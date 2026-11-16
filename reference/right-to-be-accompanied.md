@@ -87,7 +87,7 @@ The companion sentence for every letter that mentions a companion: letter 1 (inv
 You are entitled to be accompanied by someone you work with or a trade union representative. If you would like to be accompanied, please let me know the name of your chosen companion [number of hours or days] before the hearing.
 ```
 
-- **Decision (Dan, 15 November 2026, step 5 decision 2):** this wording, the same in all three letter types, for consistency. In Dan's employment relations view, "trade union representative" is the accepted wording and covers union officials. Recorded in `docs/sources.md`.
+- **Fair Hearing's choice:** this wording, the same in all three letter types, for consistency. In Fair Hearing's view, "trade union representative" is the accepted wording in employment relations and covers union officials.
 - **No postponement wording in any letter.** The postponement rule above is for explaining to the user, not for the letter.
 - Never use this sentence to decide who the employee may bring. For that question, use entry PC in `plain-english.md` (section 10(3) above, on request).
 

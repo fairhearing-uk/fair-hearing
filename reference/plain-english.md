@@ -1,6 +1,6 @@
 # Plain-English explanations
 
-Shared reference for every Fair Hearing skill. **Approved by Dan on 16 November 2026.** Dan-approved edits later on 16 November 2026, after the step 6B regression: PE shortened to one line; the process-guide letter lines shortened; stage headings not counted towards the length limit; P4 trimmed ("Fair Hearing doesn't suggest one." removed, shorter record line).
+Shared reference for every Fair Hearing skill. Any change to this file needs approval.
 
 This is Fair Hearing's own wording (CC BY 4.0). Most entries summarise the Acas Code wording in `code-version.md` or the legislation in `right-to-be-accompanied.md` (Open Government Licence v3.0; see `ATTRIBUTION.md`). The examples of ordinary misconduct in entry TM are Fair Hearing's own, not the Code's.
 
@@ -23,22 +23,24 @@ Dealing with this properly is fairer to them and protects you. I'll keep it shor
 
 Fair Hearing covers employees in England, Scotland and Wales (not Northern Ireland). I'll assume the person is an employee, not a worker, contractor or agency temp, and that you're the manager making the decision. If any of that's wrong, say so. Otherwise, tell me what's happened.
 
-**TA. Assumptions line, for the summary** (only for the points the user didn't state; for a supporter, leave out the last part)
+**TQ. Quick check** (after TO, as soon as the user has said what happened; leave out any item already answered, and number the rest 1, 2, 3… in the same order, with the example line cut to match)
 
-You didn't correct these, so I've assumed: the employee works in England, Scotland or Wales; they're an employee, not a worker, contractor or agency temp; and you're the manager making the decision.
+A few quick questions. One line is fine, for example: 1 none · 2 about 2021 · 3 ordinary or gross · 4 informal or formal · 5 yes or not yet
+1. Do any of these apply: pregnancy or family leave; a health condition or disability; whistleblowing; trade union membership or activity; a grievance they've raised that isn't settled; anything linked to age, race, religion, sex or another protected characteristic; a police or criminal matter?
+2. Roughly when did they start working for you?
+3. Are you treating this as ordinary misconduct or gross misconduct? Ask if you're not sure which.
+4. Informal (a quiet word and a written note) or formal?
+5. If formal: have you gathered the evidence (for example rotas or timesheets) and decided there's a case to answer?
 
-**TC. Checklist question**
+- **A supporter who names someone but doesn't say who decides:** the decision-maker check question comes first, as item 1.
+- **Item 3:** "misconduct" on its own counts as ordinary misconduct, and "gross" as gross misconduct. Give entry TM only if they ask or say they're unsure.
+- **Item 4:** give entry TR only if they ask.
 
-Do any of these apply?
-- pregnancy, or maternity or other family leave
-- a health condition or disability
-- they've reported wrongdoing (whistleblowing)
-- trade union membership or activity
-- a grievance they've raised that isn't settled
-- anything linked to age, race, religion, sex or another protected characteristic
-- a police or criminal matter
+**TA. Assumptions line, for the summary** (list only the points the user didn't state; for a supporter, leave out the last point and use "Your role: supporting the decision-maker ([who])" instead)
 
-**TM. Misconduct or gross misconduct [offer]**
+Assumed (you didn't correct these): works in England, Scotland or Wales; an employee; you're the manager deciding.
+
+**TM. Misconduct or gross misconduct [offer]** (only if they ask, or say they're unsure)
 
 Most conduct problems, such as lateness, minor rudeness or not following reasonable instructions, count as ordinary misconduct: if it's proven, the usual outcome is a written warning. Gross misconduct is for very serious things, such as theft, fraud, violence or gross negligence, where dismissal without notice for a first offence is possible. A fair process is still needed either way. This is about how you treat what's alleged, not a finding.
 
@@ -46,7 +48,7 @@ Are you treating this as ordinary misconduct or gross misconduct?
 
 *Acas wording:* "Misconduct: the usual outcome" and "Gross misconduct" in "Wording used by triage".
 
-**TR. Route [offer]**
+**TR. Route [offer]** (only if they ask)
 
 You can deal with this informally or formally. Informally, a quiet word is often all it takes, and it's wise to keep a written note. Formally, you look into the facts, tell the employee in writing what the problem is, and meet so they can give their side (they can bring a companion). Then you decide, and they can appeal. If the informal route doesn't work, you can still go formal later.
 
@@ -72,7 +74,7 @@ I can't judge whether you have enough, or whether the case is strong. The Acas C
 
 *Acas wording:* "Investigation" in "Wording used by triage".
 
-**TV. "Short service, so it's safe, right?"** (no [offer]: this comes from `law-dates.md`, not the Code; Dan-approved, 16 November 2026)
+**TV. "Short service, so it's safe, right?"** (no [offer]: this comes from `law-dates.md`, not the Code)
 
 Short service doesn't make a dismissal safe. To claim ordinary unfair dismissal, an employee needs 2 years' service if their employment legally ends before 1 January 2027, or 6 months if it ends on or after that date. Some dismissals can be unlawful from day one, for example over whistleblowing, pregnancy, trade union activity or discrimination. The decision is yours.
 
@@ -93,7 +95,11 @@ Which stage are you at?
 
 One line: "Earlier stages: [the names of the earlier stages, for example investigation, invitation, hearing]. Say if you'd like to go back to any."
 
-**Each stage reply ends with** the offer line, then: Say 'next' when you're ready.
+**Each stage reply ends with its closing line** (in place of the offer line and any letter line):
+- Investigation and hearing: Say 'next' when you're ready, or ask to see the exact Acas wording.
+- Invitation: Say 'draft the invitation letter' or 'next', or ask to see the exact Acas wording.
+- Outcome: After your decision, say 'draft the outcome letter' or 'next', or ask to see the exact Acas wording.
+- Appeal: That's the end. Ask for an appeal letter, any stage again, or the exact Acas wording.
 
 **P1. Investigation [offer]**
 - Find out the facts without unreasonable delay: gather the relevant records and talk to anyone who saw what happened.

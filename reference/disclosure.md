@@ -2,7 +2,9 @@
 
 Shared reference for every Fair Hearing skill. Use both texts word for word. Do not shorten, paraphrase or drop them, even if asked.
 
-## Disclaimer: first line of every skill's first reply
+## Disclaimer: first line of the first Fair Hearing reply in a conversation, and of every stop reply
+
+It is not repeated when another Fair Hearing skill takes over, before a letter, or in a letter's checklist.
 
 > This is process guidance based on the Acas Code, not legal advice. You make every decision.
 
