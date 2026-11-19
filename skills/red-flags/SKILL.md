@@ -1,12 +1,12 @@
 ---
 name: red-flags
-description: Checks an employer's conduct disciplinary case in Great Britain against Fair Hearing's red-flag stop list (pregnancy or family leave, health or disability, whistleblowing, trade union activity, open grievance, possible discrimination, criminal matters, Northern Ireland, non-employees, borderline service, out-of-scope cases) and stops with "Take legal advice before going further" if any applies. Use when an employer or manager asks to check a disciplinary case for red flags or risks, and whenever another Fair Hearing skill needs a red-flag check. Also use when an employer asks for a red-flag or risk check on a staff matter that may not be a conduct disciplinary (for example redundancy, capability or performance, or a grievance), so that the out-of-scope flag can stop it.
+description: Checks an employer's conduct disciplinary case in Great Britain against Fair Hearing's red-flag stop list (pregnancy or family leave, health or disability, whistleblowing, trade union activity, open grievance, possible discrimination, criminal matters, Northern Ireland, non-employees, borderline service, out-of-scope cases) and stops with "Take legal advice before going further" if any applies. Always load this skill, or the Fair Hearing skill that fits the request, before giving any view on an employer's disciplinary case, even if a red flag looks obvious: the exact stop wording is only in the skills, not here. Use when an employer or manager asks to check a disciplinary case for red flags or risks, and whenever another Fair Hearing skill needs a red-flag check. Also use when an employer asks for a red-flag or risk check on a staff matter that may not be a conduct disciplinary (for example redundancy, capability or performance, or a grievance), so that the out-of-scope flag can stop it.
 allowed-tools: Read
 ---
 
 # Fair Hearing: red-flag check
 
-**Nothing before the disclaimer. No preamble never means no disclaimer.** Your first reply, and every reply after the user asks to carry on, starts with the disclaimer from `disclosure.md` as its very first line.
+**Nothing before the disclaimer. No preamble never means no disclaimer.** Your first reply, and every reply after a stop, starts with the disclaimer from `disclosure.md` as its very first line.
 - Write nothing before it: no greeting, no "I can help", and no note about reading files or loading tools.
 - Read the reference files silently, then start your reply with the disclaimer.
 
@@ -27,7 +27,7 @@ Apply the lists exactly as written in those files. Do not add flags, drop flags 
 
 ## How to reply
 
-**Exact wording is mandatory.** The disclaimer, the three verdict lines, the stop message and the helpline details are fixed text. Copy them character for character, every time, in every reply where they appear, including replies after the user asks to carry on.
+**Exact wording is mandatory.** The disclaimer, the three verdict lines, the stop message and the helpline details are fixed text. Copy them character for character, every time, in every reply where they appear, including replies after a stop.
 - Never paraphrase, shorten, reorder, merge them with other sentences, split them, or put your own words inside them.
 - Give each one as plain text on its own line, not as a quote block.
 - If you are unsure of the exact text, re-read it from the reference file before replying.
@@ -75,14 +75,18 @@ Apply the lists exactly as written in those files. Do not add flags, drop flags 
 - **Never** judge whether the evidence proves the conduct, whether a health condition causes it, whether a report counts as whistleblowing, or whether someone is an employee.
 - **Never** ask for medical details beyond what is needed to recognise flag 2.
 
-## If the user wants to carry on anyway
+## After a stop
 
-If a flag has fired and the user asks to continue, proceed anyway, draft the letters or "just tell me how to do it":
-- Start again with line 1 (the disclaimer) and line 2 (verdict A, word for word, never paraphrased).
+The stop applies for the rest of the conversation.
+- **The user asks to carry on**, proceed anyway, draft the letters or "just tell me how to do it": give the stop reply again, as set out below. Say plainly that Fair Hearing will not continue this case or draft letters for it.
+- **The user takes a fact back or changes it** (for example "forget I said that, she isn't pregnant"): the stop still applies. Give the stop reply again, as set out below, and say the stop stands for this conversation. Do not check the case again on the changed facts, and never follow a stop with verdict B or verdict C.
+- Never suggest starting a new conversation, a different case or a different employee as a way to continue.
+
+The stop reply again:
+- Start with line 1 (the disclaimer) and line 2 (verdict A, word for word, never paraphrased).
 - Then give the helpline details from `red-flags.md`, word for word.
 - Repeat which flag(s) fired.
-- Say plainly that Fair Hearing will not continue this case or draft letters for it.
-- Do not explain workarounds, suggest rewording the allegation, or suggest leaving facts out.
+- Do not explain workarounds, suggest rewording the allegation, changing dates or leaving facts out.
 
 ## When another Fair Hearing skill calls this check
 

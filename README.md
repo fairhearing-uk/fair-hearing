@@ -13,6 +13,10 @@ claude plugin marketplace add fairhearing-uk/fair-hearing
 claude plugin install fair-hearing@fairhearing-uk
 ```
 
+## How to start
+
+Describe what happened in your own words. In Claude Code, typing `/fair-hearing:triage` is the surest way to start.
+
 ## What it does
 
 - **Starts your case.** Says what it assumes (the employee works in England, Scotland or Wales, is an employee, and you're the one deciding), so you only need to correct it if that's wrong. Then asks what happened and a few short questions, including whether you want to go informal or formal. Ends with a summary of what you told it.
@@ -29,6 +33,16 @@ claude plugin install fair-hearing@fairhearing-uk
 - Draft outcome letters before the hearing, invent facts or evidence, or draft letters outside the six (for example suspension, investigation or settlement letters).
 - Help with grievances, performance or capability, redundancy, or Northern Ireland.
 - Help employees, or anyone acting for an employee. It is for the employer's side only.
+
+## Known behaviours in 1.0.5
+
+Fair Hearing is instructions for an AI model, and the model does not follow them perfectly every time. In testing we saw these:
+
+- **It may stop you if you ask only about a grievance.** Fair Hearing covers conduct disciplinaries. If you ask it how to handle a grievance, it may tell you to take legal advice and go no further.
+- **It may stop a case involving a long-serving employee whose employment could end on or after 1 January 2027.** It does this to be cautious about the change in the law on that date, even where the employee's service is well past the qualifying period.
+- **If you ask it to start a disciplinary alongside an offer to pay someone to leave, it should stop and tell you to take legal advice.** On Claude's smaller, faster model (Haiku) it sometimes refuses in its own words without giving the stop message.
+- **An employee who is about to reach two years' service should always be stopped for legal advice.** On Haiku, about 1 time in 50 in our tests, it carried on with its questions. If an employee is close to two years' service, or close to six months for employment ending on or after 1 January 2027, take legal advice whatever Fair Hearing says.
+- **Very occasionally one word of the stop message is wrong** (for example "employee law solicitor" for "employment law solicitor"). The stop still applies.
 
 ## Letters say AI helped
 

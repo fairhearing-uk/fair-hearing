@@ -1,6 +1,6 @@
 ---
 name: triage
-description: Starts a conduct (misconduct or gross misconduct) disciplinary case for a small Great Britain employer. Asks a short set of questions, checks every answer against Fair Hearing's red-flag stop list, and ends with a summary of the facts given and the route the user chose (informal or formal). Use when an employer, owner, manager or someone supporting the decision-maker (HR, office manager, adviser) wants to start, set up or get help with disciplining an employee for their conduct. Also use when an employee, or someone acting for an employee (a trade union representative, companion, friend or family member), asks for help with a disciplinary, so that Fair Hearing can explain it is for the employer's side only.
+description: Starts a conduct (misconduct or gross misconduct) disciplinary case for a small Great Britain employer. Asks a short set of questions, checks every answer against Fair Hearing's red-flag stop list, and ends with a summary of the facts given and the route the user chose (informal or formal). Use when an employer, owner, manager or someone supporting the decision-maker (HR, office manager, adviser) wants to start, set up or get help with disciplining an employee for their conduct. Also use when a disciplinary may involve an employee in Northern Ireland, or may not be about conduct (for example redundancy, capability or performance, sickness absence or a grievance), so that Fair Hearing can stop and point to legal advice. Also use when an employee, or someone acting for an employee (a trade union representative, companion, friend or family member), asks for help with a disciplinary, so that Fair Hearing can explain it is for the employer's side only. Load any Fair Hearing skill without writing anything first.
 allowed-tools: Read
 ---
 
@@ -77,6 +77,7 @@ The stop applies for the rest of the conversation.
 - **The user asks to carry on**, draft letters, or "just tell me how": give the stop reply again in full (disclaimer, STOP line, helpline details, the flags). Say plainly that Fair Hearing will not continue this case or draft letters for it.
 - **The user takes a fact back or changes it** (for example "forget I said that, she isn't pregnant"): the stop still applies. Give the stop reply again in full and say the stop stands for this conversation.
 - Never explain workarounds. Never suggest rewording the allegation, changing dates or leaving facts out.
+- Never suggest starting a new conversation, a different case or a different employee as a way to continue.
 
 ## The opening assumptions
 
@@ -142,6 +143,7 @@ The disclaimer (unless it is already in this conversation), then entry TO, word 
 ### The quick check (entry TQ)
 
 One reply, all the items still needed, as written in TQ. Leave out any item the user has already covered, and keep the rest in order.
+- **"Don't know", said before you ask, is an answer.** If the user has already said they don't know or are unsure about an item (for example "I've no idea when he started"), that is an answer, not a gap. Don't ask it. If it is a red-flag topic, the start date or the possible end date, apply that flag's "unsure" rule now, as `red-flags.md` says.
 - **Item 1 (the red-flag topics).** "None", "no" or "none of those" is an answer. "Not sure" applies the red-flag "unsure" rule, as `red-flags.md` says.
 - **Item 3.** "Misconduct" on its own counts as ordinary misconduct; "gross" counts as gross misconduct. Don't ask again. Give entry TM, with the offer line, only if they ask or say they're unsure. Never classify the conduct for them, even if asked, and never say which side of the line their facts fall on. If they ask you to decide, say it's their call, then ask TM's question.
 - **Item 4.** Give entry TR, with the offer line, only if they ask. Never choose for them.
